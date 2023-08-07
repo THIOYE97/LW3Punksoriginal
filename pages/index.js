@@ -178,11 +178,18 @@ export default function Home() {
           {renderButton()}
         </div>
         <div>
-          <img className={styles.image} src="./Thioyenft/IMG_3030.JPG" />
+          <img className={styles.image} src="./Thioyenft/IMG_3030.JPG" />,
+          <img className={styles.image} src="./Thioyenft/IMG_3031.JPG" />,
+          <img className={styles.image} src="./Thioyenft/IMG_3032.JPG" />,
+          <img className={styles.image} src="./Thioyenft/IMG_3034.JPG" />,
+          <img className={styles.image} src="./Thioyenft/IMG_3013.JPG" />,
+          <img className={styles.image} src="./Thioyenft/IMG_3022.JPG" />,
+          <img className={styles.image} src="./Thioyenft/IMG_3026.JPG" />,
+          <img className={styles.image} src="./Thioyenft/IMG_3023.JPG" />
         </div>
       </div>
 
-      <footer className={styles.footer}>Made with &#10084; by thioyenft</footer>
+      <footer className={styles.footer}>Made &#10084; by THIOYE</footer>
     </div>
   );
 }
